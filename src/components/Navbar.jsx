@@ -124,7 +124,7 @@ const ResponsiveAppBar = () => {
                   <Typography
                     textAlign="center"
                   >
-                    Add Announcements
+                    Add Announcement
                   </Typography>
                 </MenuItem>
                 <MenuItem onClick={handleLogout}>
